@@ -1,0 +1,9 @@
+[id]
+  title = "Blog Hasban"
+  LanguageName = "Indonesian"
+  weight = 1
+
+[en]
+  title = "Hasban's Blog"
+  LanguageName = "English"
+  weight = 2
