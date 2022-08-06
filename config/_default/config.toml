@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://hasban-fardani.github.io/blog"  # Include trailing slash
+baseurl = ""  # Include trailing slash
 title = "Hasban blog"
 copyright = "Copyright © 2022 "
 # canonifyurls = true
