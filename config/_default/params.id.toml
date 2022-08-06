@@ -40,7 +40,7 @@ usePageBundles = false
 # Images:
 imagesDir = "images/" # without a leading forward slash
 # Icons:
-iconsDir = "icons/" # without a leading forward slash
+iconsDir = "/cons/" # without a leading forward slash
 # Fonts:
 fontsDir = "fonts/" # without a leading forward slash
 
