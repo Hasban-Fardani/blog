@@ -133,7 +133,7 @@ since = 2022
 # website author
 [author]
 name = "Hasban"
-# photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
+photo = "images/myAvatar.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.

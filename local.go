@@ -14,5 +14,5 @@ func main() {
 	e.GET("/login", func(c echo.Context) error {
 		return c.HTML(200, "Login page")
 	})
-	e.Logger.Fatal(e.Start(":1323"))
+	e.Logger.Fatal(e.Start(":8080"))
 }
