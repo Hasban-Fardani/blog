@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hasban Fardani"
 +++
 
-Website ini dibuat menggunakan framework (hugo)[https://github.com/gohugoio/hugo] menggunakan tema (hugo-clarity)[https://github.com/chipzoller/hugo-clarity]
+Website ini dibuat menggunakan framework [hugo](https://github.com/gohugoio/hugo) menggunakan tema [hugo-clarity](https://github.com/chipzoller/hugo-clarity)
 
 <!-- Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
