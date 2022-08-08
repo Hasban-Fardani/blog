@@ -2,65 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/about/</loc>
-    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
+    <loc>https://hasban-blog.vercel.app/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/about/"
+                href="https://hasban-blog.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://hasban-blog.vercel.app/en/"
                 />
   </url><url>
-    <loc>/en/</loc>
+    <loc>https://hasban-blog.vercel.app/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/"
+                href="https://hasban-blog.vercel.app/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://hasban-blog.vercel.app/en/about/"
                 />
   </url><url>
-    <loc>/en/kategori/</loc>
+    <loc>https://hasban-blog.vercel.app/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/kategori/"
+                href="https://hasban-blog.vercel.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/kategori/"
+                href="https://hasban-blog.vercel.app/en/categories/"
                 />
   </url><url>
-    <loc>/en/seri/</loc>
+    <loc>https://hasban-blog.vercel.app/en/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/seri/"
+                href="https://hasban-blog.vercel.app/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/seri/"
+                href="https://hasban-blog.vercel.app/en/page/"
                 />
   </url><url>
-    <loc>/en/tag/</loc>
+    <loc>https://hasban-blog.vercel.app/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/tag/"
+                href="https://hasban-blog.vercel.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tag/"
+                href="https://hasban-blog.vercel.app/en/tags/"
                 />
   </url>
 </urlset>

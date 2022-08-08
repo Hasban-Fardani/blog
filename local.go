@@ -1,4 +1,3 @@
-// for running web on local for testing
 package main
 
 import (

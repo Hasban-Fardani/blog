@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Blog Hasban</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Blog Hasban</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2022 </copyright><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>Posts on Blog Hasban</title>
+        <link>hasban-blog.vercel.app/post/</link>
+        <description>Recent content in Posts on Blog Hasban</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>id</language>
+        <lastBuildDate>Mon, 08 Aug 2022 19:01:33 +0700</lastBuildDate><atom:link href="hasban-blog.vercel.app/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Tempat Belajar Ngoding Bahasa Indonesia</title>
+        <link>hasban-blog.vercel.app/p/tempat-belajar-ngoding-bahasa-indonesia/</link>
+        <pubDate>Mon, 08 Aug 2022 19:01:33 +0700</pubDate>
+        
+        <guid>hasban-blog.vercel.app/p/tempat-belajar-ngoding-bahasa-indonesia/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>
